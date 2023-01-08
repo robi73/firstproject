@@ -2,7 +2,7 @@
 
     height: 700px;
     left: 200px;
-    background-image: url('../images/banner/banner1.png');
+    background-image: url("../images/banner/banner1.png");
     background-size: cover;
     display: flex;
     text-align: right;
@@ -49,7 +49,7 @@
 
 
 .about {
-    background-image: url('../images/person.png');
+    background-image: url("../images/person.png");
     background-repeat: no-repeat;
 
     position: absolute;
@@ -120,7 +120,7 @@
 
 .hand {
     
-    background-image: url('../images/watch.png');
+    background-image: url("../images/watch.png");
     background-repeat: no-repeat;
     width: 80%;
     height: 250px;
